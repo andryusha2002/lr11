@@ -1,0 +1,57 @@
+D:\University\3\backend\WebApplication11\WebApplication11\bin\Debug\net6.0\appsettings.Development.json
+D:\University\3\backend\WebApplication11\WebApplication11\bin\Debug\net6.0\appsettings.json
+D:\University\3\backend\WebApplication11\WebApplication11\bin\Debug\net6.0\WebApplication11.staticwebassets.runtime.json
+D:\University\3\backend\WebApplication11\WebApplication11\bin\Debug\net6.0\WebApplication11.exe
+D:\University\3\backend\WebApplication11\WebApplication11\bin\Debug\net6.0\WebApplication11.deps.json
+D:\University\3\backend\WebApplication11\WebApplication11\bin\Debug\net6.0\WebApplication11.runtimeconfig.json
+D:\University\3\backend\WebApplication11\WebApplication11\bin\Debug\net6.0\WebApplication11.dll
+D:\University\3\backend\WebApplication11\WebApplication11\bin\Debug\net6.0\WebApplication11.pdb
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.csproj.AssemblyReference.cache
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.AssemblyInfoInputs.cache
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.AssemblyInfo.cs
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.csproj.CoreCompileInputs.cache
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.MvcApplicationPartsAssemblyInfo.cache
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.RazorAssemblyInfo.cache
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.RazorAssemblyInfo.cs
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\staticwebassets.build.json
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\staticwebassets.development.json
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\scopedcss\bundle\WebApplication11.styles.css
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication11.bundle.scp.css
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.dll
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\refint\WebApplication11.dll
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.pdb
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.genruntimeconfig.cache
+D:\University\3\backend\WebApplication11\WebApplication11\obj\Debug\net6.0\ref\WebApplication11.dll
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\bin\Debug\net6.0\appsettings.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\bin\Debug\net6.0\WebApplication11.staticwebassets.runtime.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\bin\Debug\net6.0\WebApplication11.exe
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\bin\Debug\net6.0\WebApplication11.deps.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\bin\Debug\net6.0\WebApplication11.runtimeconfig.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\bin\Debug\net6.0\WebApplication11.dll
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\bin\Debug\net6.0\WebApplication11.pdb
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.csproj.AssemblyReference.cache
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.AssemblyInfoInputs.cache
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.AssemblyInfo.cs
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.csproj.CoreCompileInputs.cache
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.RazorAssemblyInfo.cache
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.RazorAssemblyInfo.cs
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication11.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication11.props
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication11.props
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication11.props
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\scopedcss\bundle\WebApplication11.styles.css
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication11.bundle.scp.css
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.dll
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\refint\WebApplication11.dll
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.pdb
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\WebApplication11.genruntimeconfig.cache
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication11\WebApplication11\obj\Debug\net6.0\ref\WebApplication11.dll
